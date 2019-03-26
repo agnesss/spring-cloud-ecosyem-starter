@@ -1,1 +1,1 @@
-# spring-cloud-ecosyem-starter
+# spring-cloud-ecosystem-starter
